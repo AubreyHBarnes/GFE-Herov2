@@ -6,9 +6,9 @@ export default function Hero() {
             <div className="hero-copy-container w-full md:w-1/2">
                 <h1 className="hero-heading font-semibold text-3xl md:text-6xl">Premium abstract images</h1>
                 <ul className="pt-8 flex flex-col gap-4">
-                    <li className="list-marker-check">test</li>
-                    <li className="list-marker-check">test</li>
-                    <li className="list-marker-check">test</li>
+                    <li className="list-marker-check">Minimum 5k Image Resolution</li>
+                    <li className="list-marker-check">Various format variants available</li>
+                    <li className="list-marker-check">Retina Display Support</li>
                 </ul>
                 <div className="cta-btn-container pt-8 flex flex-row gap-4 items-center">
                     <a role="button" className="secondary-btn shadow-md px-8 py-4 border bg-white hover:bg-neutral-50 border-neutral-200 rounded-md
