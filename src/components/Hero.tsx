@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Hero() {
     return (
-        <section className="py-8 px-4 flex flex-col md:flex-row justify-center items-center max-w-[1200px] m-auto">
+        <section className="mt-8 py-8 px-4 flex flex-col md:flex-row justify-center items-center max-w-[1200px] m-auto">
             <div className="hero-copy-container w-full md:w-1/2">
                 <h1 className="hero-heading font-semibold text-3xl md:text-6xl">Premium abstract images</h1>
                 <ul className="pt-8 flex flex-col gap-4">
